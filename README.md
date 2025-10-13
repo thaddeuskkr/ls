@@ -1,5 +1,7 @@
 # Nova
 
+### This project has been deprecated in favor of the main website having an inbuilt URL shortener. Find this [here](https://github.com/thaddeuskkr/tkkr.dev)
+
 [![Workflow Status](https://github.com/thaddeuskkr/nova/actions/workflows/build.yml/badge.svg)](https://github.com/thaddeuskkr/nova/actions/workflows/build.yml)
 
 Nova is a simple link shortener built using TypeScript and Bun.
